@@ -23,4 +23,4 @@ Kuten puhekielessä menee "säästö dollari on kaksi taalaa hankittu"; lailline
 <a href='https://c.mi.com/thread-4145373-1-1.html'>4145373</a>
 <a href='http://danse.chem.utk.edu/trac/ticket/5735'>ticket</a>
 <a href='https://thetourtimes.com/oigusparane-uuesti-omastamine/'>thetourtimes</a>
-
+<a href='[https://thetourtimes.com/oigusparane-uuesti-omastamine/](https://github.com/tersengat/kopet/blob/main/README.md)'>README</a>
